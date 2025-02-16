@@ -6,7 +6,7 @@ A simple UI and API to create RSS feed from a Telegram channel. **\*\*(only work
 
 ## Demo
 
-[https://tg-channel-to-rss.vercel.app](https://tg-channel-to-rss.vercel.app/)
+[https://tg2rss.vercel.app/]（https://tg2rss.vercel.app/）
 
 
 ## API Reference
